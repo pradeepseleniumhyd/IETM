@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="50.577">
+    <testcase classname="Validate IETM - Code and Pixels Login Page" name="IETM - Code and Pixels - Login Form validation - Valid Data" time="50.116">
+        <system-out><![CDATA[Given user opens the "Chrome" browser.......................................passed
+When user enters the url as "http://ietm.codeandpixels.net/#/"..............passed
+When user enters username as "admin"........................................passed
+When user enters password as "password".....................................passed
+When user clicks on "SUBMIT"................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
